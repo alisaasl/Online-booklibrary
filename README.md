@@ -1,4 +1,3 @@
-# Online-booklibrary
 <h1 align="center"> Online Book Library </h1>
 
 ## :book: How to use
@@ -12,11 +11,6 @@ $ git clone _REPONU KLONLAMAQ UCHUN GITHUB LINKI_
 # Go into the repository
 $ cd _HEMEN REPONUN FOLDERININ ADI_
 
-# Install dependencies
-$ npm install
 
-# Run the app
-$ npm start
-```
 
 ## :link: https://legendary-macaron-2f7aef.netlify.app/
