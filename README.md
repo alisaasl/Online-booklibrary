@@ -1,7 +1,7 @@
-<h1 align="center"> Online Book Library </h1>
+<h1 align="center"> Online book library </h1>
 
 
 
+## :link: Demo
 
-
-## :link: https://legendary-macaron-2f7aef.netlify.app/
+- <a target="_blank" href="https://legendary-macaron-2f7aef.netlify.app/"> Click Here </a> 
